@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ABSTRACT-FACTORY/ABSTRACT-FACTORY.iml" filepath="$PROJECT_DIR$/ABSTRACT-FACTORY/ABSTRACT-FACTORY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DESIGN-PATTERN.iml" filepath="$PROJECT_DIR$/DESIGN-PATTERN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FACTORY-PATTERN/FACTORY-PATTERN.iml" filepath="$PROJECT_DIR$/FACTORY-PATTERN/FACTORY-PATTERN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SINGLETON-PATTERN/SINGLETON-PATTERN.iml" filepath="$PROJECT_DIR$/SINGLETON-PATTERN/SINGLETON-PATTERN.iml" />
+    </modules>
+  </component>
+</project>
+
