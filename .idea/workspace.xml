@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4aae710b-b18c-4052-a468-f744899f0516" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/AdapterPatternDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/model/player/AdvancedMediaPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/player/AudioPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/enums/AudioTypeEnum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/adapter/MediaAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/adapter/MediaPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/model/player/impl/Mp4Player.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/model/player/impl/VlcPlayer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DESIGN-PATTERN.iws" />
@@ -24,7 +32,100 @@
     <favorites_list name="DESIGN-PATTERN" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="MediaPlayer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/adapter/MediaPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdvancedMediaPlayer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/model/player/AdvancedMediaPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VlcPlayer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/model/player/impl/VlcPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+              <caret line="0" column="65" selection-start-line="0" selection-start-column="65" selection-end-line="0" selection-end-column="65" />
+              <folding>
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mp4Player.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/model/player/impl/Mp4Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+              <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+              <folding>
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#473#474#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MediaAdapter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/adapter/MediaAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="313" max-vertical-offset="850">
+              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AudioPlayer.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/player/AudioPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.35823753" vertical-offset="204" max-vertical-offset="799">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdapterPatternDemo.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/AdapterPatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AudioTypeEnum.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/enums/AudioTypeEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -37,24 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/ABSTRACT-FACTORY/src/main/java/examples/design_pattern/abstract_factory/colors/impl/Red.java" />
-        <option value="$PROJECT_DIR$/ABSTRACT-FACTORY/src/main/java/examples/design_pattern/abstract_factory/colors/ColorFactory.java" />
-        <option value="$PROJECT_DIR$/ABSTRACT-FACTORY/src/main/java/examples/design_pattern/abstract_factory/AbstractFactory.java" />
-        <option value="$PROJECT_DIR$/ABSTRACT-FACTORY/src/main/java/examples/design_pattern/abstract_factory/Shapes/ShapeFactory.java" />
-        <option value="$PROJECT_DIR$/ABSTRACT-FACTORY/src/main/java/examples/design_pattern/abstract_factory/factory/extend/ShapeFactory.java" />
-        <option value="$PROJECT_DIR$/ABSTRACT-FACTORY/src/main/java/examples/design_pattern/abstract_factory/Factory/extend/ShapeFactory.java" />
-        <option value="$PROJECT_DIR$/ABSTRACT-FACTORY/src/main/java/examples/design_pattern/abstract_factory/Enums/FactoryEnum.java" />
-        <option value="$PROJECT_DIR$/FACTORY-PATTERN/src/main/java/examples/design_pattern/factory/Shapes/impl/Circle.java" />
-        <option value="$PROJECT_DIR$/FACTORY-PATTERN/src/main/java/examples/design_pattern/factory/ShapeFactory.java" />
-        <option value="$PROJECT_DIR$/ABSTRACT-FACTORY/src/main/java/examples/design_pattern/abstract_factory/FactoryProducer.java" />
-        <option value="$PROJECT_DIR$/ABSTRACT-FACTORY/src/main/java/examples/design_pattern/abstract_factory/AbstractFactoryPatternDemo.java" />
-        <option value="$PROJECT_DIR$/SINGLETON-PATTERN/src/main/java/SingleObject.java" />
-        <option value="$PROJECT_DIR$/SINGLETON-PATTERN/pom.xml" />
-        <option value="$PROJECT_DIR$/SINGLETON-PATTERN/src/main/java/examples/design_pattern/singleton/SingleObject.java" />
-        <option value="$PROJECT_DIR$/SINGLETON-PATTERN/src/main/java/examples/design_pattern/singleton/SingletonPatternDemo.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="dbtable:/bcf1616c/1465e908-d64e-4866-9fbd-7ab9cb20520c/.ODB.CONV_ADV_ORDER_DETAIL_PO" />
-        <option value="dbtable:/bcf1616c/1465e908-d64e-4866-9fbd-7ab9cb20520c/.ODB.CONV_ADV_ORDER_HEADER_PO" />
         <option value="dbtable:/bcf1616c/1465e908-d64e-4866-9fbd-7ab9cb20520c/.ODB.REQUISITION_HEADER" />
         <option value="db-console:/bcf1616c/1465e908-d64e-4866-9fbd-7ab9cb20520c/" />
         <option value="dbtable:/bcf1616c/1465e908-d64e-4866-9fbd-7ab9cb20520c/.ODB.ORDER_DETAIL" />
@@ -88,6 +171,24 @@
         <option value="$PROJECT_DIR$/PROTOTYPE-DESIGN-PATTERN/src/main/java/examples/design_pattern/prototype_pattern/demo/PrototypePatternDemo.java" />
         <option value="$PROJECT_DIR$/PROTOTYPE-DESIGN-PATTERN/src/main/java/examples/design_pattern/prototype_pattern/cache/ShapeCache.java" />
         <option value="$PROJECT_DIR$/.idea/dataSources.xml" />
+        <option value="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/AudioTypeEnum.java" />
+        <option value="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/MediaPlayer.java" />
+        <option value="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/AdvencedMediaPlayer.java" />
+        <option value="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/AdvencedMediaPlayer.java" />
+        <option value="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/AudioTypeEnum.java" />
+        <option value="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/MediaPlayer.java" />
+        <option value="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/model/MediaPlayer.java" />
+        <option value="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/model/VlcPlayer.java" />
+        <option value="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/model/impl/Mp4Player.java" />
+        <option value="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/model/player/impl/Mp4Player.java" />
+        <option value="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/MediaAdapter.java" />
+        <option value="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/model/player/AdvencedMediaPlayer.java" />
+        <option value="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/model/player/AdvancedMediaPlayer.java" />
+        <option value="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/adapter/MediaAdapter.java" />
+        <option value="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/AudioPlayer.java" />
+        <option value="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/player/AudioPlayer.java" />
+        <option value="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/enums/AudioTypeEnum.java" />
+        <option value="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/AdapterPatternDemo.java" />
       </list>
     </option>
   </component>
@@ -186,6 +287,90 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DESIGN-PATTERN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DESIGN-PATTERN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADAPTER-DESIGN-PATTERN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DESIGN-PATTERN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DESIGN-PATTERN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADAPTER-DESIGN-PATTERN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DESIGN-PATTERN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DESIGN-PATTERN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADAPTER-DESIGN-PATTERN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DESIGN-PATTERN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DESIGN-PATTERN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ADAPTER-DESIGN-PATTERN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adapter_pattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -203,7 +388,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/PROTOTYPE-DESIGN-PATTERN/src/main/java/examples/design_pattern/prototype_pattern" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="dynamic.classpath" value="false" />
@@ -216,32 +401,11 @@
       <recent name="C:\Users\912867\workspace\DESIGN-PATTERN\ABSTRACT-FACTORY\src\main\java" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="examples.design_pattern.adapter_pattern.model" />
       <recent name="examples.design_pattern.abstract_factory.colors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrototypePatternDemo">
-    <configuration default="false" name="FactoryPatternExamp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="examples.design_pattern.factory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="examples.design_pattern.factory.FactoryPatternExamp" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="FACTORY-PATTERN" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.AdapterPatternDemo">
     <configuration default="false" name="AbstractFactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -325,6 +489,28 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="PROTOTYPE-DESIGN-PATTERN" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AdapterPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="examples.design_pattern.adapter_pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="examples.design_pattern.adapter_pattern.AdapterPatternDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ADAPTER-DESIGN-PATTERN" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -572,19 +758,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FactoryPatternExamp" />
-      <item index="1" class="java.lang.String" itemvalue="Application.AbstractFactoryPatternDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SingletonPatternDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BuilderPatternDemo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PrototypePatternDemo" />
+      <item index="0" class="java.lang.String" itemvalue="Application.AbstractFactoryPatternDemo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SingletonPatternDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BuilderPatternDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PrototypePatternDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AdapterPatternDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PrototypePatternDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BuilderPatternDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SingletonPatternDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.AbstractFactoryPatternDemo" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FactoryPatternExamp" />
+        <item index="0" class="java.lang.String" itemvalue="Application.AdapterPatternDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PrototypePatternDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BuilderPatternDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SingletonPatternDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.AbstractFactoryPatternDemo" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -604,7 +790,7 @@
       <workItem from="1417780790713" duration="10250000" />
       <workItem from="1418021009770" duration="9317000" />
       <workItem from="1418044590249" duration="2702000" />
-      <workItem from="1418047313542" duration="140000" />
+      <workItem from="1418047313542" duration="2484000" />
     </task>
     <task id="LOCAL-00001" summary="PUT&#10;">
       <created>1417791121738</created>
@@ -622,18 +808,22 @@
       <created>1418047332611</created>
       <updated>1418047332611</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="PUT&#10;">
+      <created>1418047457873</created>
+      <updated>1418047457873</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22409000" />
+    <option name="totallyTimeSpent" value="24753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1672" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32796317" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32796317" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -655,7 +845,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34188035" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3452244" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3452244" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -690,60 +880,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FACTORY-PATTERN/src/main/java/examples/design_pattern/factory/Shapes/impl/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="19" />
-          <folding>
-            <element signature="e#169#170#0" expanded="false" />
-            <element signature="e#226#227#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FACTORY-PATTERN/src/main/java/examples/design_pattern/factory/ShapesEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FACTORY-PATTERN/src/main/java/examples/design_pattern/factory/ShapeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FACTORY-PATTERN/src/main/java/examples/design_pattern/factory/FactoryPatternExamp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABSTRACT-FACTORY/src/main/java/examples/design_pattern/abstract_factory/FactoryProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABSTRACT-FACTORY/src/main/java/examples/design_pattern/abstract_factory/Enums/ColorEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABSTRACT-FACTORY/src/main/java/examples/design_pattern/abstract_factory/Colors/Color.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ABSTRACT-FACTORY/src/main/java/examples/design_pattern/abstract_factory/AbstractFactoryPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="32" max-vertical-offset="595">
@@ -1118,6 +1254,82 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="488">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/adapter/MediaPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/model/player/impl/VlcPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <caret line="0" column="65" selection-start-line="0" selection-start-column="65" selection-end-line="0" selection-end-column="65" />
+          <folding>
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/model/player/impl/Mp4Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+          <folding>
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/model/player/AdvancedMediaPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/adapter/MediaAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="313" max-vertical-offset="850">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/enums/AudioTypeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/AdapterPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/player/AudioPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35823753" vertical-offset="204" max-vertical-offset="799">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
