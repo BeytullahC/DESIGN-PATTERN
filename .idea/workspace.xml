@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4aae710b-b18c-4052-a468-f744899f0516" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/AdapterPatternDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/model/player/AdvancedMediaPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/player/AudioPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/enums/AudioTypeEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/adapter/MediaAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/adapter/MediaPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/model/player/impl/Mp4Player.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/model/player/impl/VlcPlayer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DESIGN-PATTERN.iws" />
@@ -94,8 +86,8 @@
       <file leaf-file-name="AudioPlayer.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/player/AudioPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35823753" vertical-offset="204" max-vertical-offset="799">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.68390805" vertical-offset="204" max-vertical-offset="799">
+              <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -284,90 +276,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="DESIGN-PATTERN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DESIGN-PATTERN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DESIGN-PATTERN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADAPTER-DESIGN-PATTERN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DESIGN-PATTERN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DESIGN-PATTERN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADAPTER-DESIGN-PATTERN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DESIGN-PATTERN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DESIGN-PATTERN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADAPTER-DESIGN-PATTERN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DESIGN-PATTERN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DESIGN-PATTERN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADAPTER-DESIGN-PATTERN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adapter_pattern" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -790,7 +698,7 @@
       <workItem from="1417780790713" duration="10250000" />
       <workItem from="1418021009770" duration="9317000" />
       <workItem from="1418044590249" duration="2702000" />
-      <workItem from="1418047313542" duration="2484000" />
+      <workItem from="1418047313542" duration="3764000" />
     </task>
     <task id="LOCAL-00001" summary="PUT&#10;">
       <created>1417791121738</created>
@@ -812,11 +720,15 @@
       <created>1418047457873</created>
       <updated>1418047457873</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ADAPTER DESIGN PATTERN MODULE ADDED..">
+      <created>1418049975861</created>
+      <updated>1418049975861</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24753000" />
+    <option name="totallyTimeSpent" value="26033000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1672" y="-8" width="1696" height="1026" extended-state="6" />
@@ -870,7 +782,8 @@
     </option>
     <MESSAGE value="Sildim Eski kodlar&#10;" />
     <MESSAGE value="PUT&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="PUT&#10;" />
+    <MESSAGE value="ADAPTER DESIGN PATTERN MODULE ADDED.." />
+    <option name="LAST_COMMIT_MESSAGE" value="ADAPTER DESIGN PATTERN MODULE ADDED.." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1325,8 +1238,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ADAPTER-DESIGN-PATTERN/src/main/java/examples/design_pattern/adapter_pattern/player/AudioPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35823753" vertical-offset="204" max-vertical-offset="799">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.68390805" vertical-offset="204" max-vertical-offset="799">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
