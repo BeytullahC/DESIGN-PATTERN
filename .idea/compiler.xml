@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="ABSTRACT-FACTORY" />
+        <module name="BUILDER-DESIGN-PATTERN" />
         <module name="FACTORY-PATTERN" />
         <module name="SINGLETON-PATTERN" />
       </profile>
