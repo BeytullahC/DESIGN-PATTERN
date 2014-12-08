@@ -1,0 +1,43 @@
+package examples.design_pattern.prototype_pattern.cache;
+
+import examples.design_pattern.prototype_pattern.model.Circle;
+import examples.design_pattern.prototype_pattern.model.Rectangle;
+import examples.design_pattern.prototype_pattern.model.Shape;
+import examples.design_pattern.prototype_pattern.model.Square;
+
+import java.util.Hashtable;
+
+/**
+ * Created by BeytullahCaliskan on 08.12.2014.
+ */
+public class ShapeCache {
+    private static Hashtable<String, Shape> shapeMap = new Hashtable<String, Shape>();
+
+    public static Shape getShape(String shapeId) {
+
+        Shape cachedShape = shapeMap.get(shapeId);
+        return (Shape) cachedShape.clone();
+
+    }
+
+    // for each shape run database query and create shape
+
+    // shapeMap.put(shapeKey, shape);
+
+    // for example, we are adding three shapes
+
+    public static void loadCache() {
+
+        Circle circle = new Circle();
+        circle.setId("1");
+        shapeMap.put(circle.getId(), circle);
+
+        Square square = new Square();
+        square.setId("2");
+        shapeMap.put(square.getId(), square);
+
+        Rectangle rectangle = new Rectangle();
+        rectangle.setId("3");
+        shapeMap.put(rectangle.getId(), rectangle);
+    }
+}

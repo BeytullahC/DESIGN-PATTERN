@@ -23,11 +23,22 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="ABSTRACT-FACTORY" />
+        <module name="ADAPTER-DESIGN-PATTERN" />
         <module name="BUILDER-DESIGN-PATTERN" />
         <module name="FACTORY-PATTERN" />
+        <module name="PROTOTYPE-DESIGN-PATTERN" />
         <module name="SINGLETON-PATTERN" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ABSTRACT-FACTORY" target="1.7" />
+      <module name="ADAPTER-DESIGN-PATTERN" target="1.7" />
+      <module name="BUILDER-DESIGN-PATTERN" target="1.7" />
+      <module name="DESIGN-PATTERN" target="1.7" />
+      <module name="FACTORY-PATTERN" target="1.7" />
+      <module name="PROTOTYPE-DESIGN-PATTERN" target="1.7" />
+      <module name="SINGLETON-PATTERN" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 

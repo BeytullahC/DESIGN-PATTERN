@@ -11,6 +11,8 @@
   	<module>ABSTRACT-FACTORY</module>
       <module>SINGLETON-PATTERN</module>
       <module>BUILDER-DESIGN-PATTERN</module>
+      <module>PROTOTYPE-DESIGN-PATTERN</module>
+      <module>ADAPTER-DESIGN-PATTERN</module>
   </modules>
     <dependencies>
         <dependency>
